@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortFolders", "SortFolders\SortFolders.csproj", "{F78DDBB7-5A4C-4843-B012-D755B098F9AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortFolders", "SortFolders\SortFolders.csproj", "{F78DDBB7-5A4C-4843-B012-D755B098F9AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Éléments de solution", "Éléments de solution", "{06A6EF02-A7C8-4CB0-A262-103AB635A426}"
+	ProjectSection(SolutionItems) = preProject
+		README.MD = README.MD
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
